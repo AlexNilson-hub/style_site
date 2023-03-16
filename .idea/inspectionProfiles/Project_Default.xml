@@ -1,0 +1,70 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="7">
+            <item index="0" class="java.lang.String" itemvalue="css" />
+            <item index="1" class="java.lang.String" itemvalue="type" />
+            <item index="2" class="java.lang.String" itemvalue="mb-2" />
+            <item index="3" class="java.lang.String" itemvalue="pb-3" />
+            <item index="4" class="java.lang.String" itemvalue="href" />
+            <item index="5" class="java.lang.String" itemvalue="alt" />
+            <item index="6" class="java.lang.String" itemvalue="src" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="HtmlUnknownTag" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="9">
+            <item index="0" class="java.lang.String" itemvalue="nobr" />
+            <item index="1" class="java.lang.String" itemvalue="noembed" />
+            <item index="2" class="java.lang.String" itemvalue="comment" />
+            <item index="3" class="java.lang.String" itemvalue="noscript" />
+            <item index="4" class="java.lang.String" itemvalue="embed" />
+            <item index="5" class="java.lang.String" itemvalue="script" />
+            <item index="6" class="java.lang.String" itemvalue="style" />
+            <item index="7" class="java.lang.String" itemvalue="h2" />
+            <item index="8" class="java.lang.String" itemvalue="p" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E122" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Paste" />
+          <option value="main.nonline" />
+          <option value="Card.models.Card_App.object" />
+          <option value="main.app_auction.models.Task.objects" />
+          <option value="main.app_auction.models.File.objects" />
+          <option value="pytz.timezone.now" />
+          <option value="PyQt5.uic" />
+          <option value="main.app_code_word.views.modal_window.mw" />
+          <option value="venv.auction_store_main.config.settings.base.*" />
+          <option value="django.contrib.auth.forms.*" />
+          <option value="tuple.export" />
+          <option value="venv.auction_store_main" />
+          <option value="auction_store.auction_store.users.objects" />
+          <option value="environ.Env" />
+          <option value="Auctione_Store_2022.new_auctione_2022.new_auctione_2022.users.urls.*" />
+          <option value="Auctione_Store_2022.new_auctione_2022.config.api_router.new_auctione_2022" />
+          <option value="tuple.*" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="XmlDuplicatedId" enabled="false" level="ERROR" enabled_by_default="false" />
+  </profile>
+</component>
